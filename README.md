@@ -1,8 +1,15 @@
-<img src="./github.png" width=70%>
+<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width=100%>
+
+# Github Desktop
 
 Today we're going to learn about Git, a version control system by Linus Torvalds. We're also going to talk about Github, an [open source platform](https://github.com/open-source).
 
-# Assignments
+Github is a great platform to store source code, share projects, collaborate with people and find open source projects to use and/or work with.
+
+- :link: Links
+  - [Useful Git commands](https://dzone.com/articles/top-20-git-commands-with-examples)
+
+## Exercises
 
 1. Start of by downloading [GitHub Desktop](https://desktop.github.com/). Once you have opened the program, make sure to login to your Github account.
 
@@ -29,8 +36,6 @@ Today we're going to learn about Git, a version control system by Linus Torvalds
 12. Make some changes by adding some new text or another image. Commit and push the changes. Now it's time to make a [pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request) to your classmate's repository.
 
 13. Help your classmate [merge](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request) the pull request.
-
-## Extra
 
 14. In your repository, create a new file and name it `ignore-this-file.txt`.
 
