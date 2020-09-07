@@ -10,7 +10,7 @@ Today we're going to learn about Git, a version control system by Linus Torvalds
 
 3. [Clone the repository](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop) using GitHub Desktop and open the project with your editor of choice.
 
-4. In your README file, add an [`<h1>`]() header using [Markdown](https://guides.github.com/features/mastering-markdown/) with the text "Hello World".
+4. In your README file, add an `<h1>` header using [Markdown](https://guides.github.com/features/mastering-markdown/) with the text "Hello World".
 
 5. Save the file and go back to GitHub Desktop. Add a commit message/summary and [commit the changes](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/creating-your-first-repository-using-github-desktop#part-5-making-committing-and-pushing-changes).
 
