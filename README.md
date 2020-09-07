@@ -13,10 +13,14 @@ GitHub is a great platform to store source code, share projects, collaborate wit
 - :link: Links
 
   - [Learn about Git](https://git-scm.com/about/)
-  - [Version control](https://git-scm.com/video/what-is-version-control)
+  - [GitHub flow chart](https://guides.github.com/introduction/flow/)
+  - [Forking and pull requests](https://guides.github.com/activities/forking/)
+  - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - :headphones: Screencasts
   - [GitHub Desktop](https://www.youtube.com/watch?v=iv8rSLsi1xo)
+  - [Version control](https://git-scm.com/video/what-is-version-control)
+  - [Markdown tutorial with examples](https://www.youtube.com/watch?v=bpdvNwvEeSE)
 
 ## Exercises
 
@@ -46,10 +50,8 @@ GitHub is a great platform to store source code, share projects, collaborate wit
 
 13. Help your classmate [merge](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request) the pull request.
 
-## Extra
+14. **Extra:** In your repository, create a new file and name it `ignore-this-file.txt`.
 
-14. In your repository, create a new file and name it `ignore-this-file.txt`.
+15. **Extra:** Now create another file called `.gitignore`. Write `ignore-this-file.txt` in the .gitignore. Save the file, add, commit, and push the changes.
 
-15. Now create another file called `.gitignore`. Write `ignore-this-file.txt` in the .gitignore. Save the file, add, commit, and push the changes.
-
-16. Finally, go back to GitHub, and if you're successful the ignore-this-file.txt file should not be there.
+16. **Extra:** Finally, go back to GitHub, and if you're successful the ignore-this-file.txt file should not be there.
