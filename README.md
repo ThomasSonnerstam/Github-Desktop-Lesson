@@ -1,3 +1,7 @@
+<img src="./github.png" width=1000%>
+
+Today we're going to learn about Git, a version control system by Linus Torvalds. We're also going to talk about Github, an [open source platform](https://github.com/open-source).
+
 # Assignments
 
 1. Start of by downloading [GitHub Desktop](https://desktop.github.com/). Once you have opened the program, make sure to login to your Github account.
