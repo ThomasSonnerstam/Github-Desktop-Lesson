@@ -1,17 +1,26 @@
 <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width=100%>
 
-# Github Desktop
+# 02 - GitHub Desktop
 
-Today we're going to learn about Git, a version control system by Linus Torvalds. We're also going to talk about Github, an [open source platform](https://github.com/open-source).
+Today we're going to learn about Git, a version control system by Linus Torvalds. We're also going to talk about GitHub, an [open source platform](https://github.com/open-source).
 
-Github is a great platform to store source code, share projects, collaborate with people and find open source projects to use and/or work with.
+GitHub is a great platform to store source code, share projects, collaborate with people and find open source projects to use and/or work with.
+
+- :books: Documentation
+
+  - [Git](https://git-scm.com/docs)
 
 - :link: Links
-  - [Useful Git commands](https://dzone.com/articles/top-20-git-commands-with-examples)
+
+  - [Learn about Git](https://git-scm.com/about/)
+  - [Version control](https://git-scm.com/video/what-is-version-control)
+
+- :headphones: Screencasts
+  - [GitHub Desktop](https://www.youtube.com/watch?v=iv8rSLsi1xo)
 
 ## Exercises
 
-1. Start of by downloading [GitHub Desktop](https://desktop.github.com/). Once you have opened the program, make sure to login to your Github account.
+1. Start of by downloading [GitHub Desktop](https://desktop.github.com/). Once you have opened the program, make sure to login to your GitHub account.
 
 2. [Create a new public repository](https://docs.github.com/en/enterprise/2.15/user/articles/create-a-repo) and name it "Hello World". Initialize the repository with a [README file](https://guides.github.com/features/wikis/).
 
@@ -37,8 +46,10 @@ Github is a great platform to store source code, share projects, collaborate wit
 
 13. Help your classmate [merge](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request) the pull request.
 
+## Extra
+
 14. In your repository, create a new file and name it `ignore-this-file.txt`.
 
 15. Now create another file called `.gitignore`. Write `ignore-this-file.txt` in the .gitignore. Save the file, add, commit, and push the changes.
 
-16. Finally, go back to Github, and if you're successful the ignore-this-file.txt file should not be there.
+16. Finally, go back to GitHub, and if you're successful the ignore-this-file.txt file should not be there.
