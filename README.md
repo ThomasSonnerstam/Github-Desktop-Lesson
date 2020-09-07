@@ -1,4 +1,4 @@
-<img src="./github.png" width=100%>
+<img src="./github.png" width=70%>
 
 Today we're going to learn about Git, a version control system by Linus Torvalds. We're also going to talk about Github, an [open source platform](https://github.com/open-source).
 
