@@ -12,6 +12,8 @@ GitHub is a great platform to store source code, share projects, collaborate wit
 
 - :link: Links
 
+  - [GitHub courses](https://lab.github.com/)
+  - [First day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
   - [Learn about Git](https://git-scm.com/about/)
   - [GitHub flow chart](https://guides.github.com/introduction/flow/)
   - [Forking and pull requests](https://guides.github.com/activities/forking/)
