@@ -24,9 +24,9 @@ GitHub is a for-profit company that offers a cloud-based Git repository hosting 
 
 - :headphones: Screencasts
   
-  - [GitHub Desktop](https://www.youtube.com/watch?v=iv8rSLsi1xo)
+  - [GitHub Beginner's Training Guide](https://www.youtube.com/watch?v=iv8rSLsi1xo)
   
-  - [Version Control](https://git-scm.com/video/what-is-version-control)
+  - [What is Version Control?](https://git-scm.com/video/what-is-version-control)
   
   - [Markdown Cheatsheet](https://www.youtube.com/watch?v=bpdvNwvEeSE)
 
