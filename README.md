@@ -2,9 +2,7 @@
 
 # 02 - GitHub Desktop
 
-Today we're going to learn about Git, a version control system by Linus Torvalds. We're also going to talk about GitHub, an [open source platform](https://github.com/open-source).
-
-GitHub is a great platform to store source code, share projects, collaborate with people and find open source projects to use and/or work with.
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration. GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.
 
 - :books: Documentation
 
@@ -12,17 +10,25 @@ GitHub is a great platform to store source code, share projects, collaborate wit
 
 - :link: Links
 
-  - [GitHub courses](https://lab.github.com/)
-  - [First day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
-  - [Learn about Git](https://git-scm.com/about/)
-  - [GitHub flow chart](https://guides.github.com/introduction/flow/)
-  - [Forking and pull requests](https://guides.github.com/activities/forking/)
-  - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [GitHub Learning Lab](https://lab.github.com/)
+  
+  - [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
+  
+  - [Learn About Git](https://git-scm.com/about/)
+  
+  - [GitHub Flow Chart](https://guides.github.com/introduction/flow/)
+  
+  - [Forking and Pull Requests](https://guides.github.com/activities/forking/)
+
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - :headphones: Screencasts
+  
   - [GitHub Desktop](https://www.youtube.com/watch?v=iv8rSLsi1xo)
-  - [Version control](https://git-scm.com/video/what-is-version-control)
-  - [Markdown tutorial with examples](https://www.youtube.com/watch?v=bpdvNwvEeSE)
+  
+  - [Version Control](https://git-scm.com/video/what-is-version-control)
+  
+  - [Markdown Cheatsheet](https://www.youtube.com/watch?v=bpdvNwvEeSE)
 
 ## Exercises
 
